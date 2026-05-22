@@ -8,10 +8,11 @@
 		"GᚨMEᚲH007!"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/mod/creepers-consent",
+		"sources": "https://github.com/gamemech007/Creeper-Consent",
+		"issues": "https://github.com/gamemech007/Creeper-Consent/issues"
 	},
-	"license": "CC0-1.0",
+	"license": "Apache-2.0",
 	"icon": "assets/creeper-consent/icon.png",
 	"environment": "*",
 	"entrypoints": {
